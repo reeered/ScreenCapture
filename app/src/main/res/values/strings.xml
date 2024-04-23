@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScreenCapture</string>
+    <string name="title_activity_empty">EmptyActivity</string>
+</resources>
